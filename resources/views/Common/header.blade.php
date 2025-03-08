@@ -718,8 +718,6 @@
                 <ul>
                     <li><a href="Dashboard"><i class="material-icons-outlined">arrow_right</i>Dashboard</a>
                     </li>
-
-
                 </ul>
             </li>
 
