@@ -718,12 +718,8 @@
                 <ul>
                     <li><a href="Dashboard"><i class="material-icons-outlined">arrow_right</i>Dashboard</a>
                     </li>
-
-
                 </ul>
             </li>
-
-
             <li>
                 <a class="has-arrow" href="javascript:;">
                     <div class="parent-icon"><i class="material-icons-outlined">apps</i>
@@ -1067,7 +1063,6 @@
 <!--start overlay-->
 <div class="overlay btn-toggle"></div>
 <!--end overlay-->
-
 
 
 
